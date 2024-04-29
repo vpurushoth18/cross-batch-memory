@@ -1,1 +1,4 @@
 # cross-batch-memory
+
+This is step taken for migitating the memory loss during continous training.
+There has been added function to see how the memory of has been depreciated during each mini batch training. 
